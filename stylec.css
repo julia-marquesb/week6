@@ -1,0 +1,42 @@
+.navbar{
+    background-color: black;
+    margin: 0;
+}
+
+.nav-list{
+    list-style-type: none;
+    display: flex;/*display flex converts columns in to rows*/
+    margin: 0;
+    padding: 0;
+    justify-content: center;  
+}
+
+ .nav-link{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.nav-item{
+    padding: 14px 20px;
+    color: white;
+    /*padding: 30 px; applies to top, bottom, left and right*/
+}
+
+img{
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: 600px;
+
+
+}
+
+.foother{
+    background-color: black;
+    color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
